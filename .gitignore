@@ -52,6 +52,7 @@ audit/*.json
 # IDE
 /.vscode/
 
+public_static
 # Semantic UI
 /semantic/*
 !/semantic/src/site
